@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Tanish Sharma
 
-**Data Scientist | ML Engineer | Full Stack Developer**
+**Data Scientist | AI\ML Engineer | Full Stack Developer**
 
 🎓 B.Tech Computer Science Engineering (Data Science) graduate from MMDU  
-📍 Chandigarh, India | Ready to Relocate  
+📍 Chandigarh, India   
 📧 sharmatanish44511@gmail.com | 📱 +91-7876809718
 
 ---
