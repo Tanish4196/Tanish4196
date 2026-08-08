@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Results-driven Data Scientist and Machine Learning Engineer passionate about building intelligent systems and data-driven solutions. I specialize in developing predictive models, implementing generative AI solutions, and creating end-to-end machine learning pipelines. With expertise in Python, SQL, and modern ML frameworks, I transform complex data into actionable insights that solve real-world problems.
+Results-driven Data Scientist and Machine Learning Engineer passionate about building intelligent systems and data-driven solutions. I specialize in developing predictive models, implementing gene[...]
 
 **Currently exploring:** Advanced LLMs, RAG systems, and Full Stack Development  
 **Looking to collaborate on:** Data Science projects, ML model development, and AI-powered applications
@@ -55,6 +55,9 @@ Content-based filtering recommendation engine using Scikit-learn with optimized 
 
 ### [Churn Prediction System](https://github.com/Tanish4196)
 End-to-end ML pipeline with Artificial Neural Networks for customer churn prediction. Built interactive Streamlit app for real-time predictions and risk visualization.
+
+### [LexisAi](https://github.com/Tanish4196/LexisAi)
+AI-powered legal document analysis and semantic search tool leveraging NLP, RAG, and LangChain. Includes document ingestion, semantic embeddings, summarization, and a Streamlit-based demo app with REST APIs for integration.
 
 ---
 
