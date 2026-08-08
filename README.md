@@ -57,7 +57,12 @@ Content-based filtering recommendation engine using Scikit-learn with optimized 
 End-to-end ML pipeline with Artificial Neural Networks for customer churn prediction. Built interactive Streamlit app for real-time predictions and risk visualization.
 
 ### [LexisAi](https://github.com/Tanish4196/LexisAi)
-AI-powered legal document analysis and semantic search tool leveraging NLP, RAG, and LangChain. Includes document ingestion, semantic embeddings, summarization, and a Streamlit-based demo app with REST APIs for integration.
+LexisAI – Legal Document Analysis Assistant | Python, RAG, Streamlit, FAISS, OpenRouter
+
+Built a RAG-based legal AI assistant that analyzes uploaded legal documents and answers user queries using relevant retrieved context.  
+Developed document processing, text chunking, embeddings, and FAISS vector retrieval pipeline for efficient semantic search.  
+Integrated OpenRouter LLMs and developed a Streamlit-based interface for interactive document analysis and question answering.  
+Implemented secure API-key management and cloud deployment using Streamlit.
 
 ---
 
